@@ -13,7 +13,7 @@ My name is Felipe Tuyama and I'm a software engineer. Enthusiastic about solving
 - 💻 Ruby, Python, Elixir, JS [and many more dev languages](https://www.linkedin.com/in/felipe-tuyama/)
 - 📈 Trading on the financial market in my free time
 - ❤️ Elixir, Ruby and VanillaJS
-- 🎓 Computer Engineer at ITA
+- 🎓 Computer Engineer at [ITA](http://www.ita.br/)
 
 <!--
 **ftuyama/ftuyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
