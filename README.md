@@ -9,7 +9,7 @@
 
 My name is Felipe Tuyama and I'm a remote software engineer. Enthusiastic about solving challenging problems and architect well-designed solutions, I like building things and studying new technologies. You can visit my beautiful portfolio website at any time for more information about me <https://ftuyama.com>
 
-- 🇵🇹 Currently working in Lisbon as a remote software engineer
+- 🇧🇷 Currently working as a remote software engineer
 - 💻 Ruby, Python, Elixir, JS [and many more](https://www.linkedin.com/in/felipe-tuyama/)
 - 📈 Trading on the financial market in my free time 
 - ❤️ Learning Elixir, Ruby and VanillaJS
