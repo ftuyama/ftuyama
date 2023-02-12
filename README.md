@@ -11,9 +11,10 @@ My name is Felipe Tuyama and I'm a remote senior software engineer. Enthusiastic
 
 - 🇧🇷 Currently working as Engineering Team Lead at Trainline
 - 💻 Ruby, Python, Elixir, JS [and many more](https://www.linkedin.com/in/felipe-tuyama/)
+- 🎓 Computer Engineer at [ITA](http://www.ita.br/)
 - 📈 Trading on the financial market in my free time 
 - ❤️ Learning U2F and Vue.js
-- 🎓 Computer Engineer at [ITA](http://www.ita.br/)
+- 🎨 Favorite color: #353740
 
 <!--
 **ftuyama/ftuyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
