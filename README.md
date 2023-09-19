@@ -11,7 +11,7 @@ My name is Felipe Tuyama and I'm a remote Senior Software Engineer. Enthusiastic
 
 - 🇧🇷 Senior Software Engineer at Reformation
 - 💻 Ruby, Python, Elixir, React, Typescript [and more](https://www.linkedin.com/in/felipe-tuyama/)
-- 📚 Software Architect at [MTU](https://www.mtu.ie/)
+- 📚 Software Architecture and Design at [MTU](https://www.mtu.ie/)
 - 🎓 Computer Engineer at [ITA](http://www.ita.br/)
 - ❤️ Learning U2F and Vue.js
 - 🎨 Favorite color: [#353740](https://www.colorhexa.com/353740)
