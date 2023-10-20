@@ -13,7 +13,6 @@ My name is Felipe Tuyama and I'm a remote Senior Software Engineer. Enthusiastic
 - 💻 Ruby, Python, Elixir, React, Typescript [and more](https://www.linkedin.com/in/felipe-tuyama/)
 - 📚 Software Architecture and Design at [MTU](https://www.mtu.ie/)
 - 🎓 Computer Engineer at [ITA](http://www.ita.br/)
-- ❤️ Learning U2F and Vue.js
 - 🎨 Favorite color: [#353740](https://www.colorhexa.com/353740)
 
 <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ftuyama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
