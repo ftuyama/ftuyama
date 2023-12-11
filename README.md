@@ -5,12 +5,12 @@
 [![Website Badge](https://img.shields.io/badge/-Website-738?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://ftuyama.com)](https://ftuyama.com/)
 
 ## Remote Software Engineer 👋  
-![''](https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby) ![''](https://img.shields.io/badge/-Python-3776AB?logoColor=FFD43B&logo=Python) ![''](https://img.shields.io/badge/-Elixir-4B275F?logo=Elixir)  ![''](https://img.shields.io/badge/-React-333?logo=React) ![''](https://img.shields.io/badge/-JS-333?logo=Javascript)
+![''](https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby) ![''](https://img.shields.io/badge/-Python-3776AB?logoColor=FFD43B&logo=Python) ![''](https://img.shields.io/badge/-Elixir-4B275F?logo=Elixir)  ![''](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D) ![''](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
-My name is Felipe Tuyama and I'm a remote Senior Software Engineer. Enthusiastic about solving challenging problems and architect well-designed solutions, I like building things and studying new technologies. You can visit my beautiful portfolio website at any time for more information about me <https://ftuyama.com>
+My name is Felipe Tuyama and I'm a remote Senior Software Engineer. Enthusiastic about solving challenging problems and architecting well-designed solutions, I like building things and studying new technologies. You can visit my beautiful portfolio website at any time for more information about me <https://ftuyama.com>
 
 - 🇧🇷 Senior Software Engineer at Reformation
-- 💻 Ruby, Python, Elixir, React, Typescript [and more](https://www.linkedin.com/in/felipe-tuyama/)
+- 💻 Ruby, Python, Elixir, Vue.js, Typescript [and more](https://www.linkedin.com/in/felipe-tuyama/)
 - 📚 Software Architecture and Design at [MTU](https://www.mtu.ie/)
 - 🎓 Computer Engineer at [ITA](http://www.ita.br/)
 - 🎨 Favorite color: [#353740](https://www.colorhexa.com/353740)
