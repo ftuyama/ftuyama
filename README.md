@@ -7,7 +7,7 @@
 ## Remote Software Engineer 👋  
 ![''](https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby) ![''](https://img.shields.io/badge/-Python-3776AB?logoColor=FFD43B&logo=Python) ![''](https://img.shields.io/badge/-Elixir-4B275F?logo=Elixir)  ![''](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D) ![''](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
-My name is Felipe Tuyama and I'm a remote Senior Software Engineer. Enthusiastic about solving challenging problems and architecting well-designed solutions, I like building things and studying new technologies. You can visit my beautiful portfolio website at any time for more information about me <https://ftuyama.com>
+My name is Felipe Tuyama and I'm a remote Senior Software Engineer. Enthusiastic about solving challenging problems and architecting well-designed solutions, I like building things and studying new technologies. You can visit my beautiful portfolio website at any time for more information about me <[https://ftuyama.github.io](https://ftuyama.github.io)>
 
 - 🇧🇷 Senior Software Engineer at Reformation
 - 💻 Ruby, Python, Elixir, Vue.js, Typescript [and more](https://www.linkedin.com/in/felipe-tuyama/)
